@@ -15202,7 +15202,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.8927, y: -0.57, z: -0.59877}
-  m_LocalScale: {x: 106.76537, y: 0.39, z: 172.31624}
+  m_LocalScale: {x: 106.50166, y: 0.39, z: 133.02124}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -15217,7 +15217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1253029003}
   m_Layer: 0
-  m_Name: Lightning
+  m_Name: Electiricity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20466,7 +20466,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.9433962, g: 0.89538693, b: 0.27144888, a: 1}
+      maxColor: {r: 0.9245957, g: 0.9528302, b: 0.22921856, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
